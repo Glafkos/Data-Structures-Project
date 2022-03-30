@@ -1,4 +1,4 @@
-# Data-Stractures-Project
+# Data-Structures-Project
 This project was implemented during the course of data structures.
 
 The first part of this project was the implementation of three sorting algorithms (Quick Sort, Merge Sort and Bubble Sort) 
